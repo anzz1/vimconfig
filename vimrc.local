@@ -1,0 +1,5 @@
+color less
+set mouse-=a
+set noincsearch
+set nocompatible
+syntax on
