@@ -1,6 +1,7 @@
 # Install vim-7.4 on Debian
 
 ```
+apt-get --purge remove vim
 apt-get update
 apt-get install build-essential libncurses-dev git
 cd /usr/local/src
